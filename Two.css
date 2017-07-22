@@ -6,7 +6,7 @@ body {
 
 .header {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/6a/37/63/6a37639b7273700178531f690fb5535f--cheeseburgers-phone-wallpapers.jpg");
-  background-position: center center;
+  background-position: center;
   background-size: cover;
   height: 100px;
   width: 100%;
@@ -40,7 +40,7 @@ h2 {
 
 h3 {
   color: #FFF;
-  font-family: 'Plaster', cursive;
+  font-family: 'Sacramento', cursive;
   font-size: 28px;
   font-weight: 400;
   line-height: 30px;
@@ -67,7 +67,7 @@ p {
 }
 
 .main {
-  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
+  background: url("http://pinwhirls.com/images/summerwhitedotslightbluebackgroundsm.png");
   margin: 0;
   padding: 40px;
 }
