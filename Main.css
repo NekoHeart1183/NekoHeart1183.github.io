@@ -64,20 +64,3 @@ p {
   margin: 0;
   padding: 40px;
 }
-
-.value-props {
-  margin: 40px auto;
-  width: 60%;
-}
-
-.prop {
-  border: 1px solid #FFF;
-  padding: 40px 0px;
-  margin: 5px 0px;
-  text-align: center;
-}
-
-.prop h2 {
-  font-family: 'Quicksand', sans-serif;
-  font-size: 24px;
-}
