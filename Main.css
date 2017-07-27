@@ -7,7 +7,6 @@ body {
 .header {
   background-image: url("memphis-colorful.png");
   background-repeat: repeat-x;
-  background-size: cover;
   width: 100%;
 }
 
