@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-background: url("memphis-colorful.png");
+background-image: url("memphis-colorful.png");
 height: 100%
 }
 
@@ -57,7 +57,7 @@ p {
 }
 
 .main {
-  background: url("memphis-colorful.png");
+  background-image: url("memphis-colorful.png");
   margin: 0;
   padding: 40px;
 }
