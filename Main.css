@@ -1,11 +1,12 @@
 body {
+  background-image: url("memphis-colorful.png");
   margin: 0;
   padding: 0;
 }
 
 .header {
-  background-image: url("memphis-colorful.png");
-  background-repeat: repeat-x;
+  //background-image: url("memphis-colorful.png");
+  //background-repeat: repeat-x;
   width: 100%;
 }
 
