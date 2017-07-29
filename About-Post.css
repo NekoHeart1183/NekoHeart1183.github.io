@@ -1,11 +1,11 @@
 body {
-  background-image: url("memphis-colorful.png");
+  background-image: url("https://3.bp.blogspot.com/-g1DphIQLJfQ/U9fZfSdtMmI/AAAAAAAAkNg/h6SSg9_Yizc/s1600/outer_space_stars_galaxies_nebulae_1920x1080_wallpaper_Wallpaper_2560x1440_www.wall321.com.jpg");
   margin: 0;
   padding: 0;
 }
 
 .header {
-  background-image: url("memphis-colorful.png");
+  background-image: url("https://3.bp.blogspot.com/-g1DphIQLJfQ/U9fZfSdtMmI/AAAAAAAAkNg/h6SSg9_Yizc/s1600/outer_space_stars_galaxies_nebulae_1920x1080_wallpaper_Wallpaper_2560x1440_www.wall321.com.jpg");
   background-repeat: repeat-x;
   width: 100%;
 }
@@ -49,7 +49,7 @@ h3 {
 p {
   color: #bda27e;
   font-family: 'Slabo 27px', serif;
-  font-size: 16px;
+  font-size: 30px;
   font-weight: 100;
   line-height: 24px;
   margin: 0 auto;
