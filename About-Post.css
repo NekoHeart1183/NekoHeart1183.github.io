@@ -1,8 +1,13 @@
 body {
-  background-image: url("http://www.scrapwaybrasil.com.br/assets/images/PANOAH59.jpg");
-  margin: 0;
+  background-color: #FFF;
+  margin: 1.5;
   padding: 0;
-}
+  height: 900px;
+  width: 100%;
+  background: url("http://www.scrapwaybrasil.com.br/assets/images/PANOAH59.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  }
 
 .header {
 background-image: url("https://s-media-cache-ak0.pinimg.com/736x/54/ed/78/54ed784dccfe17d8e87db77857f325cc--art-background-stock-illustrations.jpg");
