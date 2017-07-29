@@ -1,0 +1,58 @@
+body {
+  background-image: url("memphis-colorful.png");
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-image: url("memphis-colorful.png");
+  background-repeat: repeat-x;
+  width: 100%;
+}
+
+#header-text {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 25%;
+  width: 60%;
+  color: #000;
+}
+
+h1 {
+  color: #000;
+  font-family: 'Bellefair', serif;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 3px auto;
+}
+
+h2 {
+  color: #d2b48c;
+  font-family: 'Bellefair', serif;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 100;
+}
+
+h3 {
+  color: #d2b48c;
+  font-family: 'Sacramento', cursive;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+p {
+  color: #bda27e;
+  font-family: 'Slabo 27px', serif;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 24px;
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+}
