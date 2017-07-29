@@ -17,6 +17,10 @@ body {
   color: #000;
 }
 
+.main {
+  background-image: url:"https://s-media-cache-ak0.pinimg.com/originals/3a/e2/13/3ae2134d33d166e5d0f3269fcd61350d.jpg";
+}
+
 h1 {
   color: #000;
   font-family: 'Indie+Flower', cursive;
